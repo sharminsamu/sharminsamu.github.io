@@ -21,7 +21,7 @@ repository               : "sharminsamu/sharminsamu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Samu_Profile_Pic2.jpg"
+  avatar           : "Samu_Profile_Pic1.jpg"
   name             : "Sharmin Sultana Samu"
   pronouns         : # example: "she/her"  
   bio              : "Researcher - HCI, Human-AI Interaction, AI Alignment, NLP, VLM"
