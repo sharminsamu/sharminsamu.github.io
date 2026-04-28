@@ -65,74 +65,83 @@ My research interests span several key areas, and I actively follow leading conf
 [ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
 </span>
 
-<!-- Conference-7 -->
+<!-- Conference-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [Conference on Computer Vision and Pattern Recognition (CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)<br/>
 </span>
 
-<!-- Conference-8 -->
+<!-- Conference-2 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [International Conference on Computer Vision (ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)<br/>
 </span>
 
-<!-- Conference-9 -->
+<!-- Conference-3 -->
 + <span style="font-family:Trebuchet MS; color:black;">
   <a href="https://link.springer.com/conference/eccv">European Conference on Computer Vision (ECCV)</a>
   &nbsp;|&nbsp;
   <a href="https://www.ecva.net/papers.php">ECCV Papers Collection</a>
 </span>
 
-<!-- Conference-10 -->
+<!-- Conference-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [Winter Conference on Applications of Computer Vision (WACV)](https://ieeexplore.ieee.org/xpl/conhome/1000040/all-proceedings)<br/>
 </span>
 
-<!-- Conference-11 -->
+<!-- Conference-5 -->
 + <span style="font-family:Trebuchet MS; color:black;">
   <a href="https://link.springer.com/conference/accv">Asian Conference on Computer Vision (ACCV)</a>
   &nbsp;|&nbsp;
   <a href="https://openaccess.thecvf.com/menu_other.html">ACCV Papers Collection</a>
 </span>
 
-<!-- Conference-12 -->
+<!-- Conference-6 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings)<br/>
 </span>
 
-<!-- Conference-13 -->
+<!-- Conference-7 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [CVF Open Access (For papers from top conferences)](https://openaccess.thecvf.com/menu)<br/>
 </span>
 
-<!-- Conference-14 -->
+<!-- Conference-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
   <a href="https://neurips.cc/">Conference on Neural Information Processing Systems (NeurIPS)</a>
   &nbsp;|&nbsp;
   <a href="https://proceedings.neurips.cc/">NeurIPS Papers Collection</a>
 </span>
 
-<!-- Conference-15 -->
+<!-- Conference-2 -->
 + <span style="font-family:Trebuchet MS; color:black;">
   <a href="https://icml.cc/">International Conference on Machine Learning (ICML)</a>
   &nbsp;|&nbsp;
   <a href="https://icml.cc/virtual/2025/papers.html">ICML Papers Collection</a>
 </span>
 
-<!-- Conference-16 -->
+<!-- Conference-3 -->
 + <span style="font-family:Trebuchet MS; color:black;">
   <a href="https://iclr.cc/">International Conference on Learning Representations (ICLR)</a>
   &nbsp;|&nbsp;
   <a href="https://iclr.cc/virtual/2025/papers.html">ICLR Papers Collection</a>
 </span>
 
-<!-- Conference-17 -->
+<!-- Conference-4 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)<br/>
 </span>
 
-<!-- Conference-18 -->
+<!-- Conference-5 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>For recent advancements in the field of Human Computer Interaction: </i>
+</p>
+
+<!-- arXiv (HCI) -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[arXiv (Human-Computer Interaction)](https://arxiv.org/list/cs.HC/recent)<br/>
 </span>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
