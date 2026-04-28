@@ -42,7 +42,7 @@ author_profile: true
 <!-- Paper 04 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers**</span>](https://arxiv.org/abs/2512.21709) (<span style="color:PaleVioletRed"><strong>Presented for publication</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Md. Rakibul Islam</font>, <strong style="color: green">Most. Sharmin Sultana Samu</strong>, Md. Zahid Hossain, Farhad Uz Zaman, and Md. Kamrozzaman Bhuiyan</font>
+	<font size="3"><strong>Authors</strong>: Md. Rakibul Islam, <strong style="color: green">Most. Sharmin Sultana Samu</strong>, Md. Zahid Hossain, Farhad Uz Zaman, and Md. Kamrozzaman Bhuiyan</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
