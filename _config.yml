@@ -8,43 +8,43 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Md. Rakibul Islam"
+title                    : "Sharmin Sultana Samu"
 title_separator          : "-"
-name                     : &name "Md. Rakibul Islam"
+name                     : &name "Sharmin Sultana Samu"
 description              : &description "Personal Website"
-url                      : https://rakibul72.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sharminsamu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rakibul72/rakibul72.github.io"
+repository               : "sharminsamu/sharminsamu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Rakib_Profile_Pic1.jpg"
-  name             : "Md. Rakibul Islam"
+  avatar           : "Samu_Profile_Pic1.jpg"
+  name             : "Sharmin Sultana Samu"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer, CSE, AUST || Researcher - VLM, NLP, CV, DL, ML"
+  bio              : "Researcher - HCI, Human-AI Interaction, AI Alignment, NLP, VLM"
   location         : "Dhaka, Bangladesh"
-  employer         : # "Ahsanullah University of Science and Technology"
-  uri              : # "https://www.aust.edu/cse/faculty_member/mr_md_rakibul_islam"
-  email            : "rakib.cse@aust.edu" 
+  employer         : # 
+  uri              : # 
+  email            : "sharminsamu130@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=LSWdSeUAAAAJ&hl=en&authuser=2"
+  googlescholar    : "https://scholar.google.com/citations?user=xMbJTxIAAAAJ&hl=en&authuser=2"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0003-6420-8257"
+  orcid            : #"https://orcid.org/0009-0003-6420-8257"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Md-Rakibul-Islam-20"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58930083200"
+  researchgate     : "https://www.researchgate.net/profile/Sharmin-Samu-2"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=58930083200"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "rakibul72"
+  github           : "sharminsamu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "rakibul-islam72"
+  linkedin         : "sharmin-samu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
