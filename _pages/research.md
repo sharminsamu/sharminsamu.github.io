@@ -5,10 +5,35 @@ permalink: /research/
 author_profile: true
 ---
 <p style="text-align:justify; color:black; font-family:Georgia">
-My research interests span several key areas, and I actively follow leading journals and conferences to stay updated on the latest trends and advancements:
+My research interests span several key areas, and I actively follow leading conferences and journals to stay updated on the latest trends and advancements:
 </p>
 
 ## Some notable conferences I follow regularly:
+
+<!-- Conference-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/conference/chi/proceedings)<br/>
+</span>
+
+<!-- Conference-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Conference on Computer-Supported Cooperative Work (CSCW)](https://dl.acm.org/conference/cscw/proceedings)<br/>
+</span>
+
+<!-- Conference-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Symposium On Usable Privacy and Security (SOUPS)](https://soups.page/)<br/>
+</span>
+
+<!-- Conference-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Human-Agent Interaction (HAI)](https://dl.acm.org/conference/hai/proceedings)<br/>
+</span>
+
+<!-- Conference-5 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Australian Computer Human Interaction Conference (OZCHI)](https://dl.acm.org/conference/ozchi/proceedings)<br/>
+</span>
 
 <!-- Conference-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
