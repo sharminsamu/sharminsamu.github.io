@@ -18,7 +18,7 @@ Duration: 2025 - ongoing <br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.)<br/>
 Civil Engineering<br/>
-Duration: 2018 - 2023 <br/>
+Duration: 2018 - 2022 <br/>
 </span>
 
 <!-- HSC -->
