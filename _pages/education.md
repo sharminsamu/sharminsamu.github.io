@@ -34,13 +34,3 @@ Duration: 2014 - 2016 <br/>
 Secondary School Certificate (SSC) <br/>
 Duration: 2012 - 2014 <br/>
 </span>
-
-## Awards
-<span style="font-family:Georgia; color:black">
-🏆 <span style="color:brown">Merit Scholarship Based on BRACU Academic Results</span>, BRAC University, 2025<br/>
-🏆 <span style="color:brown">Dean's List of Honor (Ranked <b>1<sup>st</sup></b>)</span>, Ahsanullah University of Science and Technology, 01 January, 2023<br/>
-🏆 <span style="color:brown">Half Free Tuition Fee Waiver in 5 consecutive semesters</span>, Ahsanullah University of Science and Technology, 2019-2022 <br/>
-🏆 <span style="color:brown">Government Scholarship</span>, JSC, Barishal Board, 2012 <br/>
-🏆 <span style="color:brown">Ranked <b>1<sup>st</sup></b> in Upazila</span>, PSC, Barishal Board, 2009 <br/>
-🏆 <span style="color:brown">Government Scholarship</span>, PSC, Barishal Board, 2009 <br/>
-</span>
