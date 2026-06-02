@@ -100,6 +100,13 @@ author_profile: true
 
 ## Under Review/Preprint Papers <i>(Recent First)</i>
 -------
+<!-- Paper 04 -->
+🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**From Automation to Collaboration: Human-in-the-Loop Methods for Safe and Trustworthy NLP**</span>](https://arxiv.org/abs/2605.25226) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color: green">Most. Sharmin Sultana Samu</strong>, MD. Tanvir Ahmed Seum, and Md. Rakibul Islam</font>
+</span>
+<br>
+
 <!-- Paper 03 -->
 🗹 [<span style="color:Blue;font-family:Trebuchet MS;">**AI as Teammate or Tool? A Review of Human-AI Interaction in Decision Support**</span>](https://arxiv.org/abs/2602.15865) (<span style="color:PaleVioletRed"><strong>Preprint</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
