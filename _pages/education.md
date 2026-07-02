@@ -10,7 +10,7 @@ author_profile: true
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.bracu.ac.bd/" target="_blank">BRAC University</a></b></span><br/>
 Master of Science (M.Sc.)<br/>
 Computer Science and Engineering<br/>
-Duration: 2025 - ongoing <br/>
+Duration: 2025 - 2026 <br/>
 </span>
 
 <!-- B.Sc. -->
