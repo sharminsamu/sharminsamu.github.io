@@ -14,11 +14,16 @@ redirect_from:
 
 <p style="text-align:justify; color:black; font-family:Georgia"> I previously completed my Bachelor of Science degree at <a href="https://www.aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, where I studied Civil Engineering. However, my profound interest in computer science and emerging technologies inspired me to transition into the field of CSE. This shift reflects both my intellectual adaptability and commitment to pursuing meaningful, future-oriented research.</p>
 
-<p style="text-align:justify; color:black; font-family:Georgia"> My research interests lie at the intersection of Human-Computer Interaction (HCI), Human-AI Interaction, AI Alignment, Natural Language Processing (NLP), and Vision-Language Models (VLM). I am particularly interested in developing intelligent systems that are not only powerful but also human-centered, ethical, and aligned with societal values. My work aims to bridge the gap between advanced AI capabilities and real-world usability, ensuring technology serves people effectively and responsibly. My areas of expertise and ongoing research include:</p>
+<p style="text-align:justify; color:black; font-family:Georgia"> My research interests lie at the intersection of Natural Language Processing (NLP), AI Alignment, Human-AI Interaction, Human-Computer Interaction (HCI), and Vision-Language Models (VLM). I am particularly interested in developing intelligent systems that are not only powerful but also human-centered, ethical, and aligned with societal values. My work aims to bridge the gap between advanced AI capabilities and real-world usability, ensuring technology serves people effectively and responsibly. My areas of expertise and ongoing research include:</p>
 
 <details>
-<summary><b>Human Computer Interaction (HCI)</b></summary>
-<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>An interdisciplinary field that focuses on designing, evaluating, and improving the interaction between humans and computer systems. My work explores how to create intuitive, user-centered interfaces that enhance usability, accessibility, and overall user experience. I focus on integrating insights from Human-AI Interaction and AI Alignment to ensure systems behave transparently, ethically, and in ways that align with human expectations. A key research challenge I address involves understanding user behavior and cognitive processes to design adaptive and personalized systems. I am also interested in improving interaction techniques for emerging technologies, ensuring inclusivity, and enabling seamless collaboration between humans and intelligent systems. Through my research, I aim to develop interactive technologies that are efficient, trustworthy, and responsive to real-world human needs.</em> </p></font></span>
+<summary><b>Natural Language Processing (NLP)</b></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>A core area of artificial intelligence that focuses on enabling machines to understand, interpret, and generate human language. My work explores developing models that capture semantic meaning, context, and intent from text data to support tasks such as text understanding, information extraction, and language generation. A key research challenge I address involves handling ambiguity, low-resource settings, and domain variation while maintaining robustness and accuracy. I am also interested in improving the contextual reasoning ability of NLP systems and integrating them effectively with multimodal and interactive AI applications.</em></p></font></span>
+</details>
+
+<details>
+<summary><b>AI Alignment</b></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>A critical research area focused on ensuring that artificial intelligence systems behave in ways that are consistent with human values, intentions, and safety requirements. My work explores methods to improve robustness, interpretability, and goal alignment in AI models, especially in uncertain or high-stakes scenarios. A key challenge I address involves preventing misaligned behavior while maintaining model performance and adaptability. I am also interested in developing techniques that incorporate human feedback and ethical constraints into model training and decision-making.</em> </p></font></span>
 </details>
 
 <details>
@@ -27,14 +32,8 @@ redirect_from:
 </details>
 
 <details>
-<summary><b>AI Alignment</b></summary>
-<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>A critical research area focused on ensuring that artificial intelligence systems behave in ways that are consistent with human values, intentions, and safety requirements. My work explores methods to improve robustness, interpretability, and goal alignment in AI models, especially in uncertain or high-stakes scenarios. A key challenge I address involves preventing misaligned behavior while maintaining model performance and adaptability. I am also interested in developing techniques that incorporate human feedback and ethical constraints into model training and decision-making.</em> </p></font></span>
-</details>
-
-
-<details>
-<summary><b>Natural Language Processing (NLP)</b></summary>
-<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>A core area of artificial intelligence that focuses on enabling machines to understand, interpret, and generate human language. My work explores developing models that capture semantic meaning, context, and intent from text data to support tasks such as text understanding, information extraction, and language generation. A key research challenge I address involves handling ambiguity, low-resource settings, and domain variation while maintaining robustness and accuracy. I am also interested in improving the contextual reasoning ability of NLP systems and integrating them effectively with multimodal and interactive AI applications.</em></p></font></span>
+<summary><b>Human Computer Interaction (HCI)</b></summary>
+<span><font size="3"> <p style="text-align:justify; color:black; font-family:Georgia"> <em>An interdisciplinary field that focuses on designing, evaluating, and improving the interaction between humans and computer systems. My work explores how to create intuitive, user-centered interfaces that enhance usability, accessibility, and overall user experience. I focus on integrating insights from Human-AI Interaction and AI Alignment to ensure systems behave transparently, ethically, and in ways that align with human expectations. A key research challenge I address involves understanding user behavior and cognitive processes to design adaptive and personalized systems. I am also interested in improving interaction techniques for emerging technologies, ensuring inclusivity, and enabling seamless collaboration between humans and intelligent systems. Through my research, I aim to develop interactive technologies that are efficient, trustworthy, and responsive to real-world human needs.</em> </p></font></span>
 </details>
 
 <details>
