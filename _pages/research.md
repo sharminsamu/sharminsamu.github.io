@@ -12,31 +12,6 @@ My research interests span several key areas, and I actively follow leading conf
 
 <!-- Conference-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
-[ACM Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/conference/chi/proceedings)<br/>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACM Conference on Computer-Supported Cooperative Work (CSCW)](https://dl.acm.org/conference/cscw/proceedings)<br/>
-</span>
-
-<!-- Conference-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Symposium On Usable Privacy and Security (SOUPS)](https://soups.page/)<br/>
-</span>
-
-<!-- Conference-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Human-Agent Interaction (HAI)](https://dl.acm.org/conference/hai/proceedings)<br/>
-</span>
-
-<!-- Conference-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Australian Computer Human Interaction Conference (OZCHI)](https://dl.acm.org/conference/ozchi/proceedings)<br/>
-</span>
-
-<!-- Conference-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
 [Annual Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)<br/>
 </span>
 
@@ -63,6 +38,31 @@ My research interests span several key areas, and I actively follow leading conf
 <!-- Conference-6 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
+</span>
+
+<!-- Conference-1 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/conference/chi/proceedings)<br/>
+</span>
+
+<!-- Conference-2 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[ACM Conference on Computer-Supported Cooperative Work (CSCW)](https://dl.acm.org/conference/cscw/proceedings)<br/>
+</span>
+
+<!-- Conference-3 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Symposium On Usable Privacy and Security (SOUPS)](https://soups.page/)<br/>
+</span>
+
+<!-- Conference-4 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Human-Agent Interaction (HAI)](https://dl.acm.org/conference/hai/proceedings)<br/>
+</span>
+
+<!-- Conference-5 -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[Australian Computer Human Interaction Conference (OZCHI)](https://dl.acm.org/conference/ozchi/proceedings)<br/>
 </span>
 
 <!-- Conference-1 -->
@@ -136,21 +136,21 @@ My research interests span several key areas, and I actively follow leading conf
 </span>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
-<i>For recent advancements in the field of Human Computer Interaction: </i>
-</p>
-
-<!-- arXiv (HCI) -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[arXiv (Human-Computer Interaction)](https://arxiv.org/list/cs.HC/recent)<br/>
-</span>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
 <i>For recent advancements in the field of Natural Language Processing: </i>
 </p>
 
 <!-- arXiv (NLP) -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [arXiv (Computation and Language)](https://arxiv.org/list/cs.CL/recent)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>For recent advancements in the field of Human Computer Interaction: </i>
+</p>
+
+<!-- arXiv (HCI) -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[arXiv (Human-Computer Interaction)](https://arxiv.org/list/cs.HC/recent)<br/>
 </span>
 
 ## Some notable journals I follow regularly:
