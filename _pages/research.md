@@ -58,125 +58,32 @@ My research interests span several key areas, and I actively follow leading conf
 <details>
 <summary>Journals I follow regularly</summary>
 
-<!-- Journal-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Computational Linguistics](https://aclanthology.org/venues/cl/)<br/>
-</span>
-
-<!-- Journal-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Transactions of the Association for Computational Linguistics (TACL)](https://aclanthology.org/venues/tacl/)<br/>
-</span>
-
-<!-- Journal-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Natural Language Processing (Cambridge University Press)](https://www.cambridge.org/core/journals/natural-language-processing)<br/>
-</span>
-
-<!-- Journal-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Journal of Artificial Intelligence Research (JAIR)](https://www.jair.org/index.php/jair)<br/>
-</span>
-
-<!-- Journal-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)](https://dl.acm.org/journal/tallip)<br/>
-</span>
-
-<!-- Journal-6 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)<br/>
-</span>
-
-<!-- Journal-7 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263)<br/>
-</span>
-
-<!-- Journal-8 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)<br/>
-</span>
-
-<!-- Journal-9 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Computer Vision and Image Understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)<br/>
-</span>
-
-<!-- Journal-10 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)<br/>
-</span>
-
-<!-- Journal-11 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Journal of Machine Vision and Applications](https://link.springer.com/journal/138)<br/>
-</span>
-
-<!-- Journal-12 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)<br/>
-</span>
-
-<!-- Journal-13 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)<br/>
-</span>
-
-<!-- Journal-14 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)<br/>
-</span>
-
-<!-- Journal-15 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Machine Learning Journal](https://link.springer.com/journal/10994)<br/>
-</span>
-
-<!-- Journal-16 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Neural Networks (Elsevier)](https://www.sciencedirect.com/journal/neural-networks)<br/>
-</span>
-
-<!-- Journal-17 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)<br/>
-</span>
-
-<!-- Journal-18 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)<br/>
-</span>
-
-<!-- Journal-19 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/TIST)<br/>
-</span>
-
-<!-- Journal-20 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Pattern Analysis and Applications (Springer)](https://link.springer.com/journal/10044)<br/>
-</span>
-
-<!-- Journal-21 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)<br/>
-</span>
-
-<!-- Journal-22 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)<br/>
-</span>
-
-<!-- Journal-23 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<br/>
-</span>
-
-<!-- Journal-24 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Neural Computing & Applications](https://link.springer.com/journal/521)<br/>
-</span>
+<ul>
+  <li><a href="https://aclanthology.org/venues/cl/">Computational Linguistics</a></li>
+  <li><a href="https://aclanthology.org/venues/tacl/">Transactions of the Association for Computational Linguistics (TACL)</a></li>
+  <li><a href="https://www.cambridge.org/core/journals/natural-language-processing">Natural Language Processing (Cambridge University Press)</a></li>
+  <li><a href="https://www.jair.org/index.php/jair">Journal of Artificial Intelligence Research (JAIR)</a></li>
+  <li><a href="https://dl.acm.org/journal/tallip">ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655">IEEE/ACM Transactions on Audio, Speech, and Language Processing</a></li>
+  <li><a href="https://link.springer.com/journal/11263">International Journal of Computer Vision (IJCV)</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">Computer Vision and Image Understanding (CVIU)</a></li>
+  <li><a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a></li>
+  <li><a href="https://link.springer.com/journal/138">Journal of Machine Vision and Applications</a></li>
+  <li><a href="https://www.sciencedirect.com/journal/image-and-vision-computing">Image and Vision Computing</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">IEEE Transactions on Image Processing (TIP)</a></li>
+  <li><a href="https://www.jmlr.org/">Journal of Machine Learning Research (JMLR)</a></li>
+  <li><a href="https://link.springer.com/journal/10994">Machine Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/journal/neural-networks">Neural Networks (Elsevier)</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</a></li>
+  <li><a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a></li>
+  <li><a href="https://dl.acm.org/journal/TIST">ACM Transactions on Intelligent Systems and Technology (TIST)</a></li>
+  <li><a href="https://link.springer.com/journal/10044">Pattern Analysis and Applications</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36">IEEE Transactions on Geoscience and Remote Sensing</a></li>
+  <li><a href="https://link.springer.com/journal/521">Neural Computing and Applications</a></li>
+</ul>
 
 </details>
 
