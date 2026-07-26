@@ -2,13 +2,13 @@
 layout: archive
 title: ""
 permalink: /research/
-author_profile: true
 ---
 <p style="text-align:justify; color:black; font-family:Georgia">
 My research interests span several key areas, and I actively follow leading conferences and journals to stay updated on the latest trends and advancements:
 </p>
 
-## Some notable conferences I follow regularly:
+<details>
+<summary>Conferences I follow regularly</summary>
 
 <!-- Conference-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
