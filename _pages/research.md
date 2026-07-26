@@ -137,25 +137,8 @@ My research interests span several key areas, and I actively follow leading conf
 
 </details>
 
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>For recent advancements in the field of Natural Language Processing: </i>
-</p>
-
-<!-- arXiv (NLP) -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[arXiv (Computation and Language)](https://arxiv.org/list/cs.CL/recent)<br/>
-</span>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>For recent advancements in the field of Human Computer Interaction: </i>
-</p>
-
-<!-- arXiv (HCI) -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[arXiv (Human-Computer Interaction)](https://arxiv.org/list/cs.HC/recent)<br/>
-</span>
-
-## Some notable journals I follow regularly:
+<details>
+<summary>Journals I follow regularly</summary>
 
 <!-- Journal-1 -->
 + <span style="font-family:Trebuchet MS; color:black;">
@@ -275,6 +258,26 @@ My research interests span several key areas, and I actively follow leading conf
 <!-- Journal-24 -->
 + <span style="font-family:Trebuchet MS; color:black;">
 [Neural Computing & Applications](https://link.springer.com/journal/521)<br/>
+</span>
+
+</details>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>For recent advancements in the field of Natural Language Processing: </i>
+</p>
+
+<!-- arXiv (NLP) -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[arXiv (Computation and Language)](https://arxiv.org/list/cs.CL/recent)<br/>
+</span>
+
+<p style="text-align:justify; color:black; font-family:Georgia">
+<i>For recent advancements in the field of Human Computer Interaction: </i>
+</p>
+
+<!-- arXiv (HCI) -->
++ <span style="font-family:Trebuchet MS; color:black;">
+[arXiv (Human-Computer Interaction)](https://arxiv.org/list/cs.HC/recent)<br/>
 </span>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
