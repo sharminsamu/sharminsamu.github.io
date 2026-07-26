@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /resources/
 ---
 ## List of Major Conferences and Journals I follow regularly
 
