@@ -302,12 +302,3 @@ My research interests span several key areas, and I actively follow leading conf
 </ul>
 
 </details>
-
-<p style="text-align:justify; color:black; font-family:Georgia">
-<i>For recent advancements in the field of Human Computer Interaction: </i>
-</p>
-
-<!-- arXiv (HCI) -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[arXiv (Human-Computer Interaction)](https://arxiv.org/list/cs.HC/recent)<br/>
-</span>
