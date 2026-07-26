@@ -10,130 +10,48 @@ My research interests span several key areas, and I actively follow leading conf
 <details>
 <summary>Conferences I follow regularly</summary>
 
-<!-- Conference-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Annual Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)<br/>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)<br/>
-</span>
-
-<!-- Conference-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)](https://2024.naacl.org/program/accepted_papers/)<br/>
-</span>
-
-<!-- Conference-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[International Conference on Computational Linguistics (COLING)](https://aclanthology.org/venues/coling/)<br/>
-</span>
-
-<!-- Conference-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[European Chapter of the Association for Computational Linguistics (EACL)](https://aclanthology.org/venues/eacl/)<br/>
-</span>
-
-<!-- Conference-6 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACL Anthology (To check all ACL & Non-ACL Events)](https://aclanthology.org/)<br/>
-</span>
-
-<!-- Conference-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACM Conference on Human Factors in Computing Systems (CHI)](https://dl.acm.org/conference/chi/proceedings)<br/>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[ACM Conference on Computer-Supported Cooperative Work (CSCW)](https://dl.acm.org/conference/cscw/proceedings)<br/>
-</span>
-
-<!-- Conference-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Symposium On Usable Privacy and Security (SOUPS)](https://soups.page/)<br/>
-</span>
-
-<!-- Conference-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Human-Agent Interaction (HAI)](https://dl.acm.org/conference/hai/proceedings)<br/>
-</span>
-
-<!-- Conference-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Australian Computer Human Interaction Conference (OZCHI)](https://dl.acm.org/conference/ozchi/proceedings)<br/>
-</span>
-
-<!-- Conference-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Conference on Computer Vision and Pattern Recognition (CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)<br/>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[International Conference on Computer Vision (ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)<br/>
-</span>
-
-<!-- Conference-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-  <a href="https://link.springer.com/conference/eccv">European Conference on Computer Vision (ECCV)</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.ecva.net/papers.php">ECCV Papers Collection</a>
-</span>
-
-<!-- Conference-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[Winter Conference on Applications of Computer Vision (WACV)](https://ieeexplore.ieee.org/xpl/conhome/1000040/all-proceedings)<br/>
-</span>
-
-<!-- Conference-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-  <a href="https://link.springer.com/conference/accv">Asian Conference on Computer Vision (ACCV)</a>
-  &nbsp;|&nbsp;
-  <a href="https://openaccess.thecvf.com/menu_other.html">ACCV Papers Collection</a>
-</span>
-
-<!-- Conference-6 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings)<br/>
-</span>
-
-<!-- Conference-7 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[CVF Open Access (For papers from top conferences)](https://openaccess.thecvf.com/menu)<br/>
-</span>
-
-<!-- Conference-1 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-  <a href="https://neurips.cc/">Conference on Neural Information Processing Systems (NeurIPS)</a>
-  &nbsp;|&nbsp;
-  <a href="https://proceedings.neurips.cc/">NeurIPS Papers Collection</a>
-</span>
-
-<!-- Conference-2 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-  <a href="https://icml.cc/">International Conference on Machine Learning (ICML)</a>
-  &nbsp;|&nbsp;
-  <a href="https://icml.cc/virtual/2025/papers.html">ICML Papers Collection</a>
-</span>
-
-<!-- Conference-3 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-  <a href="https://iclr.cc/">International Conference on Learning Representations (ICLR)</a>
-  &nbsp;|&nbsp;
-  <a href="https://iclr.cc/virtual/2025/papers.html">ICLR Papers Collection</a>
-</span>
-
-<!-- Conference-4 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)<br/>
-</span>
-
-<!-- Conference-5 -->
-+ <span style="font-family:Trebuchet MS; color:black;">
-[International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
-</span>
+<ul>
+  
+  <li><a href="https://aclanthology.org/venues/acl/">Annual Meeting of the Association for Computational Linguistics (ACL)</a></li>
+  <li><a href="https://aclanthology.org/venues/emnlp/">Conference on Empirical Methods in Natural Language Processing (EMNLP)</a></li>
+  <li><a href="https://2024.naacl.org/program/accepted_papers/">North American Chapter of the Association for Computational Linguistics (NAACL)</a></li>
+  <li><a href="https://aclanthology.org/venues/coling/">International Conference on Computational Linguistics (COLING)</a></li>
+  <li><a href="https://aclanthology.org/venues/eacl/">European Chapter of the Association for Computational Linguistics (EACL)</a></li>
+  <li><a href="https://aclanthology.org/">ACL Anthology (ACL &amp; Non-ACL Events)</a></li>
+  <li><a href="https://dl.acm.org/conference/chi/proceedings">ACM Conference on Human Factors in Computing Systems (CHI)</a></li>
+  <li><a href="https://dl.acm.org/conference/cscw/proceedings">ACM Conference on Computer-Supported Cooperative Work (CSCW)</a></li>
+  <li><a href="https://soups.page/">Symposium On Usable Privacy and Security (SOUPS)</a></li>
+  <li><a href="https://dl.acm.org/conference/hai/proceedings">ACM International Conference on Human-Agent Interaction (HAI)</a></li>
+  <li><a href="https://dl.acm.org/conference/ozchi/proceedings">Australian Conference on Human-Computer Interaction (OzCHI)</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings">Conference on Computer Vision and Pattern Recognition (CVPR)</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings">International Conference on Computer Vision (ICCV)</a></li>
+  <li>
+    <a href="https://link.springer.com/conference/eccv">European Conference on Computer Vision (ECCV)</a> |
+    <a href="https://www.ecva.net/papers.php">ECCV Papers Collection</a>
+  </li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/conhome/1000040/all-proceedings">Winter Conference on Applications of Computer Vision (WACV)</a></li>
+  <li>
+    <a href="https://link.springer.com/conference/accv">Asian Conference on Computer Vision (ACCV)</a> |
+    <a href="https://openaccess.thecvf.com/menu_other.html">ACCV Papers Collection</a>
+  </li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings">International Conference on Image Processing (ICIP)</a></li>
+  <li><a href="https://openaccess.thecvf.com/menu">CVF Open Access (Top Computer Vision Papers)</a></li>
+  <li>
+    <a href="https://neurips.cc/">Conference on Neural Information Processing Systems (NeurIPS)</a> |
+    <a href="https://proceedings.neurips.cc/">NeurIPS Papers Collection</a>
+  </li>
+  <li>
+    <a href="https://icml.cc/">International Conference on Machine Learning (ICML)</a> |
+    <a href="https://icml.cc/virtual/2025/papers.html">ICML Papers Collection</a>
+  </li>
+  <li>
+    <a href="https://iclr.cc/">International Conference on Learning Representations (ICLR)</a> |
+    <a href="https://iclr.cc/virtual/2025/papers.html">ICLR Papers Collection</a>
+  </li>
+  <li><a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings">International Conference on Machine Learning and Applications (ICMLA)</a></li>
+  
+</ul>
 
 </details>
 
