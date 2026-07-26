@@ -3,12 +3,10 @@ layout: archive
 title: ""
 permalink: /research/
 ---
-<p style="text-align:justify; color:black; font-family:Georgia">
-My research interests span several key areas, and I actively follow leading conferences and journals to stay updated on the latest trends and advancements:
-</p>
+## List of Major Conferences and Journals I follow regularly
 
 <details>
-<summary>Conferences I follow regularly</summary>
+<summary>Conferences</summary>
 
 <ul>
   
@@ -56,7 +54,7 @@ My research interests span several key areas, and I actively follow leading conf
 </details>
 
 <details>
-<summary>Journals I follow regularly</summary>
+<summary>Journals</summary>
 
 <ul>
   <li><a href="https://aclanthology.org/venues/cl/">Computational Linguistics</a></li>
