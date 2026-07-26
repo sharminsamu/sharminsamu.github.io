@@ -135,6 +135,8 @@ My research interests span several key areas, and I actively follow leading conf
 [International Conference on Machine Learning and Applications (ICMLA)](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings)<br/>
 </span>
 
+</details>
+
 <p style="text-align:justify; color:black; font-family:Georgia">
 <i>For recent advancements in the field of Natural Language Processing: </i>
 </p>
